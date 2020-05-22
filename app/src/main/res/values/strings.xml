@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">TripsDashboard</string>
+    <string name="lufthansa">Lufthansa</string>
+    <string name="flying">flying</string>
+    <string name="to">to ?</string>
+    <string name="where_are_you">where are you</string>
+    <string name="enter_your_destination">Enter your destination</string>
+    <string name="all">All</string>
+    <string name="upcoming_trips">Upcoming Trips</string>
+    <string name="_24_oct_09_40">24 Oct, 09:40</string>
+    <string name="las">LAS</string>
+    <string name="las_vegas">Las Vegas</string>
+    <string name="_11_10">11:10</string>
+    <string name="sfo">SFO</string>
+    <string name="san_francisco">San Francisco</string>
+    <string name="home">Home</string>
+    <string name="trips">Trips</string>
+    <string name="profile">Profile</string>
+    <string name="popular">Popular</string>
+    <string name="paris">Paris</string>
+    <string name="singapore">Singapore</string>
+    <string name="sydney">Sydney</string>
+    <string name="indonesia">Indonesia</string>
 </resources>
